@@ -4,11 +4,11 @@
 		<engineLink>https://wordpress.org/</engineLink>
 		<homePageLink>https://caawn.org.sa</homePageLink>
 		<apis>
-			<api name="WordPress" blogID="1" preferred="true" apiLink="https://caawn.org.sa/xmlrpc.php" />
-			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://caawn.org.sa/xmlrpc.php" />
-			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://caawn.org.sa/xmlrpc.php" />
-			<api name="Blogger" blogID="1" preferred="false" apiLink="https://caawn.org.sa/xmlrpc.php" />
-				<api name="WP-API" blogID="1" preferred="false" apiLink="https://caawn.org.sa/wp-json/" />
+			<api name="WordPress" blogID="1" preferred="true" apiLink="https://caawn.netlify.app/xmlrpc.php" />
+			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://caawn.netlify.app/xmlrpc.php" />
+			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://caawn.netlify.app/xmlrpc.php" />
+			<api name="Blogger" blogID="1" preferred="false" apiLink="https://caawn.netlify.app/xmlrpc.php" />
+				<api name="WP-API" blogID="1" preferred="false" apiLink="https://caawn.netlify.app/wp-json/" />
 			</apis>
 	</service>
 </rsd>

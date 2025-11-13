@@ -1,0 +1,151 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 13 Nov 2025 04:47:33 at https://caawn.org.sa/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://caawn.org.sa/ -O1 "E:\2\yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+04:51:18	Error: 	"Method Not Allowed" (405) at link https://caawn.org.sa/xmlrpc.php (from https://caawn.org.sa/)
+04:51:31	Error: 	"Not Found" (404) at link https://caawn.org.sa/wp-content/uploads/2024/11/headerqc.jpg (from https://caawn.org.sa/)
+04:51:40	Error: 	"Error when decompressing" (-1) at link https://caawn.org.sa/شهادة-تسجيل-الجمعيه/ (from https://caawn.org.sa/)
+04:51:40	Error: 	"Error when decompressing" (-1) at link https://caawn.org.sa/الهيكل-التنظيمى/ (from https://caawn.org.sa/)
+04:52:13	Error: 	"Error when decompressing" (-1) at link https://caawn.org.sa/أملاك-الجمعية/ (from https://caawn.org.sa/)
+04:52:13	Error: 	"Error when decompressing" (-1) at link https://caawn.org.sa/الوصف-الوظيفى-للموظفين/ (from https://caawn.org.sa/)
+04:52:13	Error: 	"Error when decompressing" (-1) at link https://caawn.org.sa/بطاقات-الوصف-الوظيفي-للوضائف-المالية/ (from https://caawn.org.sa/)
+04:52:30	Error: 	"Error when decompressing" (-1) at link https://caawn.org.sa/خبراء-الجمعية/ (from https://caawn.org.sa/)
+04:52:43	Warning: 	Retry after error 500 (Internal Server Error) at link wp.caawn.org.sa/wp-content/uploads/2025/09/logo2025.png (from https://caawn.org.sa/)
+04:52:43	Warning: 	Found for https://caawn.org.sa/wp-admin/
+04:52:43	Warning: 	File has moved from https://caawn.org.sa/wp-admin/ to https://caawn.org.sa/wp-login.php?redirect_to=https%3A%2F%2Fcaawn.org.sa%2Fwp-admin%2F&reauth=1
+04:52:45	Warning: 	Moved Permanently for https://caawn.org.sa/about/
+04:52:45	Warning: 	File has moved from https://caawn.org.sa/about/ to https://caawn.org.sa/about-the-association-2/
+04:52:45	Error: 	"Error when decompressing" (-1) at link https://caawn.org.sa/تعرف-على-الجمعية-الزراعية-بغرب-نجران/ (from https://caawn.org.sa/)
+04:52:45	Warning: 	Found for https://caawn.org.sa/author/admin/
+04:52:45	Warning: 	File has moved from https://caawn.org.sa/author/admin/ to https://caawn.org.sa/user/admin/
+04:52:45	Error: 	"Error when decompressing" (-1) at link https://caawn.org.sa/حصول-الجمعية-التعاونية-الزراعية-بغرب/ (from https://caawn.org.sa/)
+04:52:45	Error: 	"Error when decompressing" (-1) at link https://caawn.org.sa/توقيع-اتفاقيه-تعاون-بين-الشركة-نيوبلا/ (from https://caawn.org.sa/)
+04:52:45	Error: 	"Error when decompressing" (-1) at link https://caawn.org.sa/ازاحة-الستار-عن-الجمعيه-التعاونية-الز/ (from https://caawn.org.sa/)
+04:52:46	Error: 	"Not Found" (404) at link https://caawn.org.sa/fonts/Steadysets.ttf?-wyu8en (from https://caawn.org.sa/wp-content/plugins/mh-more-icons/assets/css/steadysets.css)
+04:52:46	Warning: 	Moved Permanently for https://caawn.org.sa/?p=5619
+04:52:46	Warning: 	File has moved from https://caawn.org.sa/?p=5619 to https://caawn.org.sa/vision-2/
+04:52:46	Warning: 	Moved Permanently for https://caawn.org.sa/?p=790
+04:52:46	Warning: 	File has moved from https://caawn.org.sa/?p=790 to https://caawn.org.sa/speech-of-the-president-of-the-association/
+04:52:46	Warning: 	Moved Permanently for https://caawn.org.sa/?p=801
+04:52:46	Warning: 	File has moved from https://caawn.org.sa/?p=801 to https://caawn.org.sa/objectives/
+04:52:46	Warning: 	Moved Permanently for https://caawn.org.sa/?p=2779
+04:52:46	Warning: 	File has moved from https://caawn.org.sa/?p=2779 to https://caawn.org.sa/aspirations-2/
+04:52:46	Warning: 	Moved Permanently for https://caawn.org.sa/?p=2785
+04:52:46	Warning: 	File has moved from https://caawn.org.sa/?p=2785 to https://caawn.org.sa/features-for-shareholders-2/
+04:52:46	Warning: 	Moved Permanently for https://caawn.org.sa/?p=845
+04:52:46	Warning: 	File has moved from https://caawn.org.sa/?p=845 to https://caawn.org.sa/members-of-the-general-assembly/
+04:52:46	Warning: 	Moved Permanently for https://caawn.org.sa/?p=855
+04:52:46	Warning: 	File has moved from https://caawn.org.sa/?p=855 to https://caawn.org.sa/members-of-the-board-of-directors/
+04:52:46	Warning: 	Moved Permanently for https://caawn.org.sa/?p=877
+04:52:46	Warning: 	File has moved from https://caawn.org.sa/?p=877 to https://caawn.org.sa/personnel/
+04:52:47	Warning: 	Moved Permanently for https://caawn.org.sa/?p=895
+04:52:47	Warning: 	File has moved from https://caawn.org.sa/?p=895 to https://caawn.org.sa/rules-and-regulations/
+04:52:47	Warning: 	Moved Permanently for https://caawn.org.sa/?p=905
+04:52:47	Warning: 	File has moved from https://caawn.org.sa/?p=905 to https://caawn.org.sa/politics/
+04:52:47	Warning: 	Moved Permanently for https://caawn.org.sa/?p=916
+04:52:47	Warning: 	File has moved from https://caawn.org.sa/?p=916 to https://caawn.org.sa/financial-statements/
+04:52:47	Warning: 	Moved Permanently for https://caawn.org.sa/?p=930
+04:52:47	Warning: 	File has moved from https://caawn.org.sa/?p=930 to https://caawn.org.sa/general-assembly-meetings/
+04:52:47	Warning: 	Moved Permanently for https://caawn.org.sa/?p=940
+04:52:47	Warning: 	File has moved from https://caawn.org.sa/?p=940 to https://caawn.org.sa/board-of-directors-meetings/
+04:52:47	Warning: 	Moved Permanently for https://caawn.org.sa/?p=970
+04:52:47	Warning: 	File has moved from https://caawn.org.sa/?p=970 to https://caawn.org.sa/the-technical-presentation-of-the-association/
+04:52:47	Warning: 	Moved Permanently for https://caawn.org.sa/?p=973
+04:52:47	Warning: 	File has moved from https://caawn.org.sa/?p=973 to https://caawn.org.sa/reports-of-training-programs-for-employees/
+04:52:49	Warning: 	Moved Permanently for https://caawn.org.sa/?p=976
+04:52:49	Warning: 	File has moved from https://caawn.org.sa/?p=976 to https://caawn.org.sa/training-needs-guide/
+04:52:49	Warning: 	Moved Permanently for https://caawn.org.sa/?p=979
+04:52:49	Warning: 	File has moved from https://caawn.org.sa/?p=979 to https://caawn.org.sa/our-services/
+04:53:11	Error: 	"Not Found" (404) at link https://caawn.org.sa/wp-content/uploads/2023/08/bgg.jpg (from https://caawn.org.sa/our-services/)
+04:53:11	Warning: 	Moved Permanently for https://caawn.org.sa/?p=989
+04:53:11	Warning: 	File has moved from https://caawn.org.sa/?p=989 to https://caawn.org.sa/our-projects/
+04:53:11	Warning: 	Moved Permanently for https://caawn.org.sa/?p=3730
+04:53:11	Warning: 	File has moved from https://caawn.org.sa/?p=3730 to https://caawn.org.sa/auction-and-offers/
+04:53:11	Warning: 	Retry after error 500 (Internal Server Error) at link wp.caawn.org.sa/wp-content/uploads/2025/09/GpJComHWUAA9w-A.jpg (from https://caawn.org.sa/category/news/)
+04:53:11	Warning: 	Retry after error 500 (Internal Server Error) at link wp.caawn.org.sa/wp-content/uploads/2025/09/GpJComHWsAAfIui.jpg (from https://caawn.org.sa/category/news/)
+04:53:11	Warning: 	Retry after error 500 (Internal Server Error) at link wp.caawn.org.sa/wp-content/uploads/2025/09/GJ2L9nQXYAAOgIU.jpg (from https://caawn.org.sa/category/news/)
+04:53:11	Warning: 	Retry after error 500 (Internal Server Error) at link wp.caawn.org.sa/wp-content/uploads/2025/09/GJ2L9nPXkAAO-D9.jpg (from https://caawn.org.sa/category/news/)
+04:53:11	Warning: 	Moved Permanently for https://caawn.org.sa/?p=30924
+04:53:11	Warning: 	File has moved from https://caawn.org.sa/?p=30924 to https://caawn.org.sa/jobs/
+04:53:11	Warning: 	Moved Permanently for https://caawn.org.sa/?p=1006
+04:53:11	Warning: 	File has moved from https://caawn.org.sa/?p=1006 to https://caawn.org.sa/contact-us/
+04:53:11	Warning: 	Retry after error 500 () at link wp.caawn.org.sa/wp-content/uploads/2025/09/logo2025.png (from https://caawn.org.sa/)
+04:53:16	Warning: 	Moved Permanently for https://caawn.org.sa/?p=30764
+04:53:16	Warning: 	File has moved from https://caawn.org.sa/?p=30764 to https://caawn.org.sa/project/programscourse/
+04:53:27	Warning: 	Moved Permanently for https://caawn.org.sa/?p=29585
+04:53:27	Warning: 	File has moved from https://caawn.org.sa/?p=29585 to https://caawn.org.sa/project/beecourse/
+04:53:33	Error: 	"Error when decompressing" (-1) at link https://caawn.org.sa/دورة-تدريبية-22/ (from https://caawn.org.sa/project/beecourse/)
+04:53:33	Error: 	"Error when decompressing" (-1) at link https://caawn.org.sa/الدورة-رقم-25/ (from https://caawn.org.sa/project/beecourse/)
+04:53:37	Error: 	"Error when decompressing" (-1) at link https://caawn.org.sa/الدورة-رقم-20/ (from https://caawn.org.sa/project/beecourse/)
+04:53:37	Error: 	"Error when decompressing" (-1) at link https://caawn.org.sa/دورة-تدريبية-23/ (from https://caawn.org.sa/project/beecourse/)
+04:53:38	Error: 	"Error when decompressing" (-1) at link https://caawn.org.sa/الدورة-رقم-15/ (from https://caawn.org.sa/project/beecourse/)
+04:53:39	Error: 	"Error when decompressing" (-1) at link https://caawn.org.sa/الدورة-رقم-21/ (from https://caawn.org.sa/project/beecourse/)
+04:53:39	Error: 	"Error when decompressing" (-1) at link https://caawn.org.sa/دورة-تدريبية-24/ (from https://caawn.org.sa/project/beecourse/)
+04:53:39	Warning: 	Moved Permanently for https://caawn.org.sa/?p=29579
+04:53:39	Warning: 	File has moved from https://caawn.org.sa/?p=29579 to https://caawn.org.sa/project/livestock/
+04:53:40	Warning: 	Moved Permanently for https://caawn.org.sa/?p=30549
+04:53:40	Warning: 	File has moved from https://caawn.org.sa/?p=30549 to https://caawn.org.sa/project/desingecourse/
+04:53:40	Warning: 	Moved Permanently for https://caawn.org.sa/?p=29241
+04:53:40	Warning: 	File has moved from https://caawn.org.sa/?p=29241 to https://caawn.org.sa/project/sharingfarming/
+04:53:40	Warning: 	Moved Permanently for https://caawn.org.sa/?p=29238
+04:53:40	Warning: 	File has moved from https://caawn.org.sa/?p=29238 to https://caawn.org.sa/project/tasmed/
+04:53:40	Warning: 	Moved Permanently for https://caawn.org.sa/?p=30545
+04:53:40	Warning: 	File has moved from https://caawn.org.sa/?p=30545 to https://caawn.org.sa/project/phtest/
+04:53:40	Warning: 	Moved Permanently for https://caawn.org.sa/?p=30767
+04:53:40	Warning: 	File has moved from https://caawn.org.sa/?p=30767 to https://caawn.org.sa/project/tjhez/
+04:53:40	Warning: 	Moved Permanently for https://caawn.org.sa/?p=30771
+04:53:40	Warning: 	File has moved from https://caawn.org.sa/?p=30771 to https://caawn.org.sa/project/bater/
+04:53:40	Warning: 	Moved Permanently for https://caawn.org.sa/?p=30776
+04:53:40	Warning: 	File has moved from https://caawn.org.sa/?p=30776 to https://caawn.org.sa/project/landskip/
+04:53:40	Warning: 	Moved Permanently for https://caawn.org.sa/?p=30778
+04:53:40	Warning: 	File has moved from https://caawn.org.sa/?p=30778 to https://caawn.org.sa/project/jdow/
+04:53:40	Warning: 	Retry after error 500 () at link wp.caawn.org.sa/wp-content/uploads/2025/09/GpJComHWUAA9w-A.jpg (from https://caawn.org.sa/category/news/)
+04:53:40	Warning: 	Retry after error 500 (Internal Server Error) at link wp.caawn.org.sa/wp-content/uploads/2025/09/GpJComHWsAAfIui.jpg (from https://caawn.org.sa/category/news/)
+04:53:40	Warning: 	Retry after error 500 () at link wp.caawn.org.sa/wp-content/uploads/2025/09/GJ2L9nQXYAAOgIU.jpg (from https://caawn.org.sa/category/news/)
+04:53:40	Warning: 	Retry after error 500 (Internal Server Error) at link wp.caawn.org.sa/wp-content/uploads/2025/09/GJ2L9nPXkAAO-D9.jpg (from https://caawn.org.sa/category/news/)
+04:53:40	Error: 	"" (500) after 2 retries at link wp.caawn.org.sa/wp-content/uploads/2025/09/logo2025.png (from https://caawn.org.sa/)
+04:53:42	Error: 	"Not Found" (404) at link https://caawn.org.sa/wp-admin/&reauth=1 (from https://caawn.org.sa/wp-login.php?redirect_to=https%3A%2F%2Fcaawn.org.sa%2Fwp-admin%2F%26reauth=1)
+04:53:43	Warning: 	Moved Permanently for https://caawn.org.sa/?p=2679
+04:53:43	Warning: 	File has moved from https://caawn.org.sa/?p=2679 to https://caawn.org.sa/about-the-association-2/
+04:53:51	Warning: 	Moved Permanently for https://caawn.org.sa/?p=29333
+04:53:51	Warning: 	File has moved from https://caawn.org.sa/?p=29333 to https://caawn.org.sa/user/
+04:53:54	Warning: 	Moved Permanently for https://caawn.org.sa/?p=30657
+04:53:54	Warning: 	File has moved from https://caawn.org.sa/?p=30657 to https://caawn.org.sa/beecourse10-2/
+04:53:54	Warning: 	Moved Permanently for https://caawn.org.sa/?p=30680
+04:53:54	Warning: 	File has moved from https://caawn.org.sa/?p=30680 to https://caawn.org.sa/beecourse13/
+04:53:54	Warning: 	Moved Permanently for https://caawn.org.sa/?p=30703
+04:53:54	Warning: 	File has moved from https://caawn.org.sa/?p=30703 to https://caawn.org.sa/beecourse16/
+04:53:54	Warning: 	Moved Permanently for https://caawn.org.sa/?p=30663
+04:53:54	Warning: 	File has moved from https://caawn.org.sa/?p=30663 to https://caawn.org.sa/beecourse11/
+04:53:54	Warning: 	Moved Permanently for https://caawn.org.sa/?p=30688
+04:53:54	Warning: 	File has moved from https://caawn.org.sa/?p=30688 to https://caawn.org.sa/beecourse14/
+04:53:54	Warning: 	Moved Permanently for https://caawn.org.sa/?p=30709
+04:53:54	Warning: 	File has moved from https://caawn.org.sa/?p=30709 to https://caawn.org.sa/beecourse17/
+04:53:54	Warning: 	Moved Permanently for https://caawn.org.sa/?p=30673
+04:53:54	Warning: 	File has moved from https://caawn.org.sa/?p=30673 to https://caawn.org.sa/beecourse12/
+04:53:54	Warning: 	Moved Permanently for https://caawn.org.sa/?p=30717
+04:53:54	Warning: 	File has moved from https://caawn.org.sa/?p=30717 to https://caawn.org.sa/beecourse18/
+04:53:54	Warning: 	Moved Permanently for https://caawn.org.sa/?p=30738
+04:53:54	Warning: 	File has moved from https://caawn.org.sa/?p=30738 to https://caawn.org.sa/livestockcourse1/
+04:53:54	Error: 	"" (500) after 2 retries at link wp.caawn.org.sa/wp-content/uploads/2025/09/GpJComHWUAA9w-A.jpg (from https://caawn.org.sa/category/news/)
+04:53:54	Error: 	"Internal Server Error" (500) after 2 retries at link wp.caawn.org.sa/wp-content/uploads/2025/09/GpJComHWsAAfIui.jpg (from https://caawn.org.sa/category/news/)
+04:53:54	Error: 	"" (500) after 2 retries at link wp.caawn.org.sa/wp-content/uploads/2025/09/GJ2L9nQXYAAOgIU.jpg (from https://caawn.org.sa/category/news/)
+04:53:54	Error: 	"Internal Server Error" (500) after 2 retries at link wp.caawn.org.sa/wp-content/uploads/2025/09/GJ2L9nPXkAAO-D9.jpg (from https://caawn.org.sa/category/news/)
+04:53:54	Warning: 	Moved Permanently for https://caawn.org.sa/?p=1863
+04:53:54	Warning: 	File has moved from https://caawn.org.sa/?p=1863 to https://caawn.org.sa/fermi-compost-factory/
+04:53:54	Warning: 	Moved Permanently for https://caawn.org.sa/?p=1922
+04:53:54	Warning: 	File has moved from https://caawn.org.sa/?p=1922 to https://caawn.org.sa/filling-and-cleaning-plant/
+04:53:54	Warning: 	Moved Permanently for https://caawn.org.sa/?p=1456
+04:53:54	Warning: 	File has moved from https://caawn.org.sa/?p=1456 to https://caawn.org.sa/the-news/
+04:53:55	Warning: 	Moved Permanently for https://caawn.org.sa/?p=3642
+04:53:55	Warning: 	File has moved from https://caawn.org.sa/?p=3642 to https://caawn.org.sa/satisfaction-measurement-questionnaire/
+04:53:55	Error: 	"Not Found" (404) at link caawn.org.sa/wp-content/plugins/elementor/assets/css/widget-icon-list-rtl.min.css (from caawn.org.sa/satisfaction-measurement-questionnaire/)
+04:53:55	Warning: 	Found for https://caawn.org.sa/user/
+04:53:55	Warning: 	File has moved from https://caawn.org.sa/user/ to https://caawn.org.sa
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 22 seconds : 628 links scanned, 537 files written (82753501 bytes overall) [74884929 bytes received at 196033 bytes/sec], 12266761 bytes transferred using HTTP compression in 326 files, ratio 25%, 10.7 requests per connection
+(28 errors, 112 warnings, 0 messages)

